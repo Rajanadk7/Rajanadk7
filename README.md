@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rajan Adhikari</h1>
-<h3 align="center">I am a highly motivated individual who is always striving to improve and achieve excellence</h3>
+<h3 align="center"> highly motivated individual who is always striving to improve and achieve excellence</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajanadk7&label=Profile%20views&color=0e75b6&style=flat" alt="rajanadk7" /> </p>
 
